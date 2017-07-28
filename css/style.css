@@ -179,16 +179,24 @@ footer {
     color: white;
 }
 
-.te-groot {}
+.te-groot img {
+    width: 100%;
+}
 
-.side-image {}
+.side-image img {
+    width: 100%;
+}
 
 .information {
     text-align: center;
     color: white;
 }
 
-.info-foto {
+.info-foto img {
     padding-top: 3em;
-    display: block;
+    width: 100%;
+}
+
+.text-images img {
+    width: 100%;
 }
