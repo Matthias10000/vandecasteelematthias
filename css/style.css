@@ -179,12 +179,19 @@ footer {
     color: white;
 }
 
-.te-groot img {
-    width: 100%;
-}
-
-.side-image img {
-    width: 100%;
+@media only screen and (max-width: 480px) {
+    .te-groot img {
+        width: 100%;
+    }
+    .info-foto img {
+        width: 100%;
+    }
+    .text-images img {
+        width: 100%;
+    }
+    .side-image img {
+        width: 100%;
+    }
 }
 
 .information {
@@ -194,9 +201,4 @@ footer {
 
 .info-foto img {
     padding-top: 3em;
-    width: 100%;
-}
-
-.text-images img {
-    width: 100%;
 }
