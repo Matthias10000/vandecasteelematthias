@@ -202,3 +202,17 @@ footer {
 .info-foto img {
     padding-top: 3em;
 }
+
+.footer-ul img {
+    width: 5em;
+    height: 4em;
+}
+
+.youtube-logo img {
+    width: 10em;
+}
+
+.dont-touch-bg img {
+    width: 100%;
+    height: 100%;
+}
