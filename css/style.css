@@ -176,13 +176,19 @@ footer {
 
 .center {
     text-align: center;
-    color: floralwhite;
+    color: white;
 }
 
-.te-groot {
-    width: 100%;
+.te-groot {}
+
+.side-image {}
+
+.information {
+    text-align: center;
+    color: white;
 }
 
-.side-image {
-    width: 100%;
+.info-foto {
+    padding-top: 3em;
+    display: block;
 }
